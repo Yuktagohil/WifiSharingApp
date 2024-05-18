@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WifiSharingApp</string>
+    <string name="connecting_people">Connecting People!</string>
 </resources>
